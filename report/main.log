@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.10.22)  22 OCT 2015 16:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.10.22)  23 OCT 2015 11:11
 entering extended mode
 **main.tex
 (main.tex
@@ -1346,12 +1346,6 @@ LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <24.88> not available
  (main.toc
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10.95> not available
 (Font)              Font shape `T1/ppl/b/n' tried instead on input line 4.
-LaTeX Font Info:    Try loading font information for T1+pcr on input line 16.
- ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\t1pcr.fd"
-File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
-)
-LaTeX Font Info:    Font shape `T1/pcr/bx/n' in size <10.95> not available
-(Font)              Font shape `T1/pcr/b/n' tried instead on input line 16.
 )
 \tf@toc=\write5
  [3
@@ -1368,103 +1362,83 @@ LaTeX Font Info:    Font shape `T1/pcr/bx/n' in size <10.95> not available
 
 ] [9] [10
 
-] [11] [12
-
 ]
-(Chapters/Chapter1.tex
+[11] [12
+
+] (Chapters/Chapter1.tex
 Chapter 1.
 --------------------
  1. Background Theory
 --------------------
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <14.4> not available
 (Font)              Font shape `T1/ppl/b/n' tried instead on input line 18.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 27.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 27.
-LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 27.
-LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <12> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 31.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 31.
-LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <8> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 31.
-[1
 
-] [2]
-LaTeX Font Info:    Try loading font information for OMS+ppl on input line 92.
- ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\omsppl.fd"
-File: omsppl.fd 
-)
-LaTeX Font Info:    Font shape `OMS/ppl/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 92.
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
 
-[3]
-LaTeX Font Info:    Font shape `T1/pcr/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/pcr/b/n' tried instead on input line 136.
- [4]
-LaTeX Font Info:    Font shape `T1/pcr/m/it' in size <10.95> not available
-(Font)              Font shape `T1/pcr/m/sl' tried instead on input line 168.
- [5]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 196.
- [6]
-Overfull \hbox (9.16711pt too wide) in paragraph at lines 225--225
-[]\T1/pcr/m/n/10 \caption{The effects of treatments X and Y on the four groups 
-studied.}[] 
  []
 
-[7] <Figures/Electron.pdf, id=269, 398.3386pt x 284.52756pt>
-File: Figures/Electron.pdf Graphic file (type pdf)
 
-<use Figures/Electron.pdf>
-Package pdftex.def Info: Figures/Electron.pdf used on input line 262.
-(pdftex.def)             Requested size: 398.33762pt x 284.52686pt.
- [8 <./Figures/Electron.pdf>] [9])
-(Appendices/AppendixA.tex [10]
+Underfull \hbox (badness 10000) in paragraph at lines 37--39
+
+ []
+
+<Figures/neuron_mathematical_model.PNG, id=109, 223.20891pt x 298.86656pt>
+File: Figures/neuron_mathematical_model.PNG Graphic file (type png)
+
+<use Figures/neuron_mathematical_model.PNG>
+Package pdftex.def Info: Figures/neuron_mathematical_model.PNG used on input li
+ne 46.
+(pdftex.def)             Requested size: 223.20834pt x 298.86581pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <12> not available
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 60.
+[1
+
+]) (Appendices/AppendixA.tex [2 <./Figures/neuron_mathematical_model.PNG>]
 Appendix A.
 --------------------
  A. Appendix Title Here
 --------------------
-) [11
+) [3
 
-] [12
+] [4
 
 ]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 267.
- [13]
+ [5]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 267.
  (main.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 267.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 267.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: C47C7075E7C7A5C508479BE410734E18;4239.
+(rerunfilecheck)             Checksum: 5ED40517F35FD48EB8EDC47C89C9DAF5;1032.
 Package logreq Info: Writing requests to 'main.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
- 26639 strings out of 493673
- 478029 string characters out of 3141526
- 626845 words of memory out of 3000000
- 29630 multiletter control sequences out of 15000+200000
- 54380 words of font info for 105 fonts, out of 3000000 for 9000
+ 26470 strings out of 493673
+ 475855 string characters out of 3141526
+ 622963 words of memory out of 3000000
+ 29519 multiletter control sequences out of 15000+200000
+ 37871 words of font info for 64 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 47i,12n,58p,10377b,1628s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 47i,11n,53p,10377b,1608s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Progra
-m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program 
-Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Fil
-es (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (
-x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x8
-6)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files (x86)/
-MiKTeX 2.9/fonts/type1/urw/courier/ucrb8a.pfb><C:/Program Files (x86)/MiKTeX 2.
-9/fonts/type1/urw/courier/ucrr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/t
-ype1/urw/courier/ucrro8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw
-/palatino/uplb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/palatin
-o/uplr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a
-.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on main.pdf (25 pages, 250048 bytes).
+m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program 
+Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Fi
+les (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files
+ (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files (x
+86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/Mi
+KTeX 2.9/fonts/type1/urw/palatino/uplb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9
+/fonts/type1/urw/palatino/uplr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/t
+ype1/urw/palatino/uplr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw
+/palatino/uplri8a.pfb>
+Output written on main.pdf (17 pages, 162918 bytes).
 PDF statistics:
- 421 PDF objects out of 1000 (max. 8388607)
- 66 named destinations out of 1000 (max. 500000)
- 214 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 193 PDF objects out of 1000 (max. 8388607)
+ 38 named destinations out of 1000 (max. 500000)
+ 62 words of extra memory for PDF output out of 10000 (max. 10000000)
 

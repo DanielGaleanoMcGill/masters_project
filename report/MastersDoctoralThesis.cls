@@ -243,7 +243,7 @@
 %----------------------------------------------------------------------------------------
 
 \newcommand*{\supervisor}[1]{\def\supname{Ioannis Psaromiligkos}}
-\newcommand*{\thesistitle}[1]{\def\@title{#1}\def\ttitle{Recurrent Neural Networks}}
+\newcommand*{\thesistitle}[1]{\def\@title{#1}\def\ttitle{Something About Recurrent Neural Networks}}
 \newcommand*{\examiner}[1]{\def\examname{#1}}
 \newcommand*{\degree}[1]{\def\degreename{Master of Engineering}}
 \renewcommand*{\author}[1]{\def\authorname{Daniel Galeano}}
