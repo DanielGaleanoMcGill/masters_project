@@ -13,6 +13,9 @@
 \contentsline {chapter}{\numberline {A}Feedforward Neural Networks}{5}{appendix.21}
 \contentsline {section}{\numberline {A.1}Terminology}{5}{section.22}
 \contentsline {section}{\numberline {A.2}Backpropagation Training in FNNs}{6}{section.24}
-\contentsline {subsection}{\numberline {A.2.1}Mean Square Error}{6}{subsection.25}
-\contentsline {chapter}{\numberline {B}Appendix B title}{7}{appendix.27}
-\contentsline {chapter}{Bibliography}{9}{appendix*.28}
+\contentsline {subsection}{\numberline {A.2.1}Initialization and Forward Pass}{6}{subsection.25}
+\contentsline {subsection}{\numberline {A.2.2}Error Computation}{6}{subsection.26}
+\contentsline {subsection}{\numberline {A.2.3}Weigths Optimization}{6}{subsection.28}
+\contentsline {subsubsection}{Error Gradient Computation}{7}{section*.30}
+\contentsline {chapter}{\numberline {B}Appendix B title}{9}{appendix.32}
+\contentsline {chapter}{Bibliography}{11}{appendix*.33}

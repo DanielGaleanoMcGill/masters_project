@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.10.22)  26 OCT 2015 16:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.10.22)  27 OCT 2015 20:27
 entering extended mode
 **main.tex
 (main.tex
@@ -1121,11 +1121,7 @@ File: english.lbx 2015/04/19 v3.0 biblatex localization (PK/JW/AB)
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 
-(main.aux
-
-LaTeX Warning: Label `eq:3' multiply defined.
-
-)
+(main.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 70.
 LaTeX Font Info:    ... okay on input line 70.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 70.
@@ -1392,7 +1388,7 @@ Overfull \hbox (6.49483pt too wide) in paragraph at lines 40--45
 s that are coded by weights.
  []
 
-<Figures/neuron_mathematical_model.PNG, id=151, 294.34969pt x 264.23718pt>
+<Figures/neuron_mathematical_model.PNG, id=166, 294.34969pt x 264.23718pt>
 File: Figures/neuron_mathematical_model.PNG Graphic file (type png)
 
 <use Figures/neuron_mathematical_model.PNG>
@@ -1425,64 +1421,57 @@ Appendix A.
 --------------------
  A. Feedforward Neural Networks
 --------------------
-<Figures/ffn_v1.PNG, id=187, 363.98485pt x 346.29375pt>
+<Figures/ffn_v1.PNG, id=201, 363.98485pt x 346.29375pt>
 File: Figures/ffn_v1.PNG Graphic file (type png)
 
 <use Figures/ffn_v1.PNG>
 Package pdftex.def Info: Figures/ffn_v1.PNG used on input line 15.
 (pdftex.def)             Requested size: 363.98395pt x 346.2929pt.
- [5 <./Figures/ffn_v1.PNG>]
-Underfull \hbox (badness 10000) in paragraph at lines 25--27
+ [5 <./Figures/ffn_v1.PNG>] [6])
+(Appendices/AppendixB.tex [7] [8
 
- []
-
-) (Appendices/AppendixB.tex [6]
+]
 Appendix B.
 --------------------
  B. Appendix B title
 --------------------
-) [7
-
-] [8
+) [9] [10
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 268.
- [9]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 268.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 269.
+ [11]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 269.
  (main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 268.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 268.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 269.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 269.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: BC44F5C0FC931053E22E34D21A1446E0;2392.
-
-
-LaTeX Warning: There were multiply-defined labels.
-
+(rerunfilecheck)             Checksum: AC3AE40B8C9550230474AC2E59D96FD6;2970.
 Package logreq Info: Writing requests to 'main.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
- 26505 strings out of 493673
- 476375 string characters out of 3141526
- 622963 words of memory out of 3000000
- 29536 multiletter control sequences out of 15000+200000
+ 26519 strings out of 493673
+ 476521 string characters out of 3141526
+ 624963 words of memory out of 3000000
+ 29543 multiletter control sequences out of 15000+200000
  37871 words of font info for 64 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
  47i,11n,53p,10377b,1608s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Progra
 m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program 
 Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Fi
-les (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files
- (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files (x
-86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/
-MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/Mi
-KTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files (x86)/MiKTe
-X 2.9/fonts/type1/urw/palatino/uplb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fo
-nts/type1/urw/palatino/uplr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type
-1/urw/palatino/uplr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/pa
-latino/uplri8a.pfb>
-Output written on main.pdf (21 pages, 231022 bytes).
+les (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Program Files
+ (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files (x
+86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files (x86)
+/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files (x86)/MiKTeX 2
+.9/fonts/type1/urw/palatino/uplb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts
+/type1/urw/palatino/uplr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/u
+rw/palatino/uplr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/palat
+ino/uplri8a.pfb>
+Output written on main.pdf (23 pages, 247971 bytes).
 PDF statistics:
- 261 PDF objects out of 1000 (max. 8388607)
- 52 named destinations out of 1000 (max. 500000)
- 131 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 294 PDF objects out of 1000 (max. 8388607)
+ 59 named destinations out of 1000 (max. 500000)
+ 155 words of extra memory for PDF output out of 10000 (max. 10000000)
 
